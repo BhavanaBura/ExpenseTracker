@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 ExpenseIQ — Full-Stack MERN Expense Tracker
 
 A modern, full-featured expense tracking application built with the MERN stack (MongoDB, Express, React, Node.js).
@@ -282,3 +283,6 @@ npm run build
 | Database | MongoDB + Mongoose |
 | Auth | JWT + bcryptjs |
 | Dev Server | Nodemon |
+=======
+# ExpenseTracker
+>>>>>>> 83edda84015848e6b46c04299a55d75444150407
