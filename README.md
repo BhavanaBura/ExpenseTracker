@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💰 ExpenseIQ — Full-Stack MERN Expense Tracker
 
 A modern, full-featured expense tracking application built with the MERN stack (MongoDB, Express, React, Node.js).
