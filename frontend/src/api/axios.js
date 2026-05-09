@@ -8,7 +8,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "/api", // Vite proxy forwards /api → http://localhost:5000/api
+  baseURL: "https://expensetracker-2-sn3f.onrender.com/api", // Vite proxy forwards /api → http://localhost:5000/api
   headers: {
     "Content-Type": "application/json",
   },
